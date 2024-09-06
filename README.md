@@ -16,7 +16,7 @@ powered by <a href="https://github.com/alec1o">ALEC1O</a><sub/>
 
 <div align="center">
   <a href="#">
-    <img align="center" src="static/<path>.png" width="128px" alt="NyID Logo">
+    <img align="center" src="static/logo/logo_1.png" width="128px" alt="NyID Logo">
   </a>
 </div>
 
