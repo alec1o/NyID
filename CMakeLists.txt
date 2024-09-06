@@ -1,7 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
-project(NyID C)
+project(NyID)
 
 set(CMAKE_C_STANDARD 99)
+set(CMAKE_C_COMPILER gcc)
 
 include_directories(src)
 add_library(NyID STATIC src/nyid.c)
