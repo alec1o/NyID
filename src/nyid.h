@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 /**
- * @fn char* nyid_generate(uint64_t seed, uint64_t index, int auto_resize, char *key, int key_size)
+ * @fn char* nyid_generate(uint64_t seed, uint64_t index, uint32_t size, uint8_t resize, char *keys, uint32_t key_size)
  * @brief NyID: generator function
  *
  * @param seed          Unique seed value for the application
